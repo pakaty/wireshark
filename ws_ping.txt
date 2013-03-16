@@ -1,0 +1,191 @@
+No.     Time        Source                Destination           Protocol Info
+      1 0.000000    192.168.0.95          173.194.47.225        ICMP     Echo (ping) request
+
+Frame 1 (74 bytes on wire, 74 bytes captured)
+Ethernet II, Src: 74:2f:68:d2:09:7f (74:2f:68:d2:09:7f), Dst: 84:c9:b2:87:6a:60 (84:c9:b2:87:6a:60)
+Internet Protocol, Src: 192.168.0.95 (192.168.0.95), Dst: 173.194.47.225 (173.194.47.225)
+Internet Control Message Protocol
+
+No.     Time        Source                Destination           Protocol Info
+      2 0.005562    173.194.47.225        192.168.0.95          ICMP     Echo (ping) reply
+
+Frame 2 (74 bytes on wire, 74 bytes captured)
+Ethernet II, Src: 84:c9:b2:87:6a:60 (84:c9:b2:87:6a:60), Dst: 74:2f:68:d2:09:7f (74:2f:68:d2:09:7f)
+Internet Protocol, Src: 173.194.47.225 (173.194.47.225), Dst: 192.168.0.95 (192.168.0.95)
+Internet Control Message Protocol
+
+No.     Time        Source                Destination           Protocol Info
+      3 0.998557    192.168.0.95          173.194.47.225        ICMP     Echo (ping) request
+
+Frame 3 (74 bytes on wire, 74 bytes captured)
+Ethernet II, Src: 74:2f:68:d2:09:7f (74:2f:68:d2:09:7f), Dst: 84:c9:b2:87:6a:60 (84:c9:b2:87:6a:60)
+Internet Protocol, Src: 192.168.0.95 (192.168.0.95), Dst: 173.194.47.225 (173.194.47.225)
+Internet Control Message Protocol
+
+No.     Time        Source                Destination           Protocol Info
+      4 1.002467    173.194.47.225        192.168.0.95          ICMP     Echo (ping) reply
+
+Frame 4 (74 bytes on wire, 74 bytes captured)
+Ethernet II, Src: 84:c9:b2:87:6a:60 (84:c9:b2:87:6a:60), Dst: 74:2f:68:d2:09:7f (74:2f:68:d2:09:7f)
+Internet Protocol, Src: 173.194.47.225 (173.194.47.225), Dst: 192.168.0.95 (192.168.0.95)
+Internet Control Message Protocol
+
+No.     Time        Source                Destination           Protocol Info
+      5 1.996833    192.168.0.95          173.194.47.225        ICMP     Echo (ping) request
+
+Frame 5 (74 bytes on wire, 74 bytes captured)
+Ethernet II, Src: 74:2f:68:d2:09:7f (74:2f:68:d2:09:7f), Dst: 84:c9:b2:87:6a:60 (84:c9:b2:87:6a:60)
+Internet Protocol, Src: 192.168.0.95 (192.168.0.95), Dst: 173.194.47.225 (173.194.47.225)
+Internet Control Message Protocol
+
+No.     Time        Source                Destination           Protocol Info
+      6 2.001256    173.194.47.225        192.168.0.95          ICMP     Echo (ping) reply
+
+Frame 6 (74 bytes on wire, 74 bytes captured)
+Ethernet II, Src: 84:c9:b2:87:6a:60 (84:c9:b2:87:6a:60), Dst: 74:2f:68:d2:09:7f (74:2f:68:d2:09:7f)
+Internet Protocol, Src: 173.194.47.225 (173.194.47.225), Dst: 192.168.0.95 (192.168.0.95)
+Internet Control Message Protocol
+
+No.     Time        Source                Destination           Protocol Info
+      7 2.995224    192.168.0.95          173.194.47.225        ICMP     Echo (ping) request
+
+Frame 7 (74 bytes on wire, 74 bytes captured)
+Ethernet II, Src: 74:2f:68:d2:09:7f (74:2f:68:d2:09:7f), Dst: 84:c9:b2:87:6a:60 (84:c9:b2:87:6a:60)
+Internet Protocol, Src: 192.168.0.95 (192.168.0.95), Dst: 173.194.47.225 (173.194.47.225)
+Internet Control Message Protocol
+
+No.     Time        Source                Destination           Protocol Info
+      8 2.998872    173.194.47.225        192.168.0.95          ICMP     Echo (ping) reply
+
+Frame 8 (74 bytes on wire, 74 bytes captured)
+Ethernet II, Src: 84:c9:b2:87:6a:60 (84:c9:b2:87:6a:60), Dst: 74:2f:68:d2:09:7f (74:2f:68:d2:09:7f)
+Internet Protocol, Src: 173.194.47.225 (173.194.47.225), Dst: 192.168.0.95 (192.168.0.95)
+Internet Control Message Protocol
+
+No.     Time        Source                Destination           Protocol Info
+      9 3.993570    192.168.0.95          173.194.47.225        ICMP     Echo (ping) request
+
+Frame 9 (74 bytes on wire, 74 bytes captured)
+Ethernet II, Src: 74:2f:68:d2:09:7f (74:2f:68:d2:09:7f), Dst: 84:c9:b2:87:6a:60 (84:c9:b2:87:6a:60)
+Internet Protocol, Src: 192.168.0.95 (192.168.0.95), Dst: 173.194.47.225 (173.194.47.225)
+Internet Control Message Protocol
+
+No.     Time        Source                Destination           Protocol Info
+     10 3.999273    173.194.47.225        192.168.0.95          ICMP     Echo (ping) reply
+
+Frame 10 (74 bytes on wire, 74 bytes captured)
+Ethernet II, Src: 84:c9:b2:87:6a:60 (84:c9:b2:87:6a:60), Dst: 74:2f:68:d2:09:7f (74:2f:68:d2:09:7f)
+Internet Protocol, Src: 173.194.47.225 (173.194.47.225), Dst: 192.168.0.95 (192.168.0.95)
+Internet Control Message Protocol
+
+No.     Time        Source                Destination           Protocol Info
+     11 4.991972    192.168.0.95          173.194.47.225        ICMP     Echo (ping) request
+
+Frame 11 (74 bytes on wire, 74 bytes captured)
+Ethernet II, Src: 74:2f:68:d2:09:7f (74:2f:68:d2:09:7f), Dst: 84:c9:b2:87:6a:60 (84:c9:b2:87:6a:60)
+Internet Protocol, Src: 192.168.0.95 (192.168.0.95), Dst: 173.194.47.225 (173.194.47.225)
+Internet Control Message Protocol
+
+No.     Time        Source                Destination           Protocol Info
+     12 4.995865    173.194.47.225        192.168.0.95          ICMP     Echo (ping) reply
+
+Frame 12 (74 bytes on wire, 74 bytes captured)
+Ethernet II, Src: 84:c9:b2:87:6a:60 (84:c9:b2:87:6a:60), Dst: 74:2f:68:d2:09:7f (74:2f:68:d2:09:7f)
+Internet Protocol, Src: 173.194.47.225 (173.194.47.225), Dst: 192.168.0.95 (192.168.0.95)
+Internet Control Message Protocol
+
+No.     Time        Source                Destination           Protocol Info
+     13 5.990342    192.168.0.95          173.194.47.225        ICMP     Echo (ping) request
+
+Frame 13 (74 bytes on wire, 74 bytes captured)
+Ethernet II, Src: 74:2f:68:d2:09:7f (74:2f:68:d2:09:7f), Dst: 84:c9:b2:87:6a:60 (84:c9:b2:87:6a:60)
+Internet Protocol, Src: 192.168.0.95 (192.168.0.95), Dst: 173.194.47.225 (173.194.47.225)
+Internet Control Message Protocol
+
+No.     Time        Source                Destination           Protocol Info
+     14 6.000032    173.194.47.225        192.168.0.95          ICMP     Echo (ping) reply
+
+Frame 14 (74 bytes on wire, 74 bytes captured)
+Ethernet II, Src: 84:c9:b2:87:6a:60 (84:c9:b2:87:6a:60), Dst: 74:2f:68:d2:09:7f (74:2f:68:d2:09:7f)
+Internet Protocol, Src: 173.194.47.225 (173.194.47.225), Dst: 192.168.0.95 (192.168.0.95)
+Internet Control Message Protocol
+
+No.     Time        Source                Destination           Protocol Info
+     15 6.988651    192.168.0.95          173.194.47.225        ICMP     Echo (ping) request
+
+Frame 15 (74 bytes on wire, 74 bytes captured)
+Ethernet II, Src: 74:2f:68:d2:09:7f (74:2f:68:d2:09:7f), Dst: 84:c9:b2:87:6a:60 (84:c9:b2:87:6a:60)
+Internet Protocol, Src: 192.168.0.95 (192.168.0.95), Dst: 173.194.47.225 (173.194.47.225)
+Internet Control Message Protocol
+
+No.     Time        Source                Destination           Protocol Info
+     16 6.992481    173.194.47.225        192.168.0.95          ICMP     Echo (ping) reply
+
+Frame 16 (74 bytes on wire, 74 bytes captured)
+Ethernet II, Src: 84:c9:b2:87:6a:60 (84:c9:b2:87:6a:60), Dst: 74:2f:68:d2:09:7f (74:2f:68:d2:09:7f)
+Internet Protocol, Src: 173.194.47.225 (173.194.47.225), Dst: 192.168.0.95 (192.168.0.95)
+Internet Control Message Protocol
+
+No.     Time        Source                Destination           Protocol Info
+     17 7.986983    192.168.0.95          173.194.47.225        ICMP     Echo (ping) request
+
+Frame 17 (74 bytes on wire, 74 bytes captured)
+Ethernet II, Src: 74:2f:68:d2:09:7f (74:2f:68:d2:09:7f), Dst: 84:c9:b2:87:6a:60 (84:c9:b2:87:6a:60)
+Internet Protocol, Src: 192.168.0.95 (192.168.0.95), Dst: 173.194.47.225 (173.194.47.225)
+Internet Control Message Protocol
+
+No.     Time        Source                Destination           Protocol Info
+     18 7.990717    173.194.47.225        192.168.0.95          ICMP     Echo (ping) reply
+
+Frame 18 (74 bytes on wire, 74 bytes captured)
+Ethernet II, Src: 84:c9:b2:87:6a:60 (84:c9:b2:87:6a:60), Dst: 74:2f:68:d2:09:7f (74:2f:68:d2:09:7f)
+Internet Protocol, Src: 173.194.47.225 (173.194.47.225), Dst: 192.168.0.95 (192.168.0.95)
+Internet Control Message Protocol
+
+No.     Time        Source                Destination           Protocol Info
+     19 8.985388    192.168.0.95          173.194.47.225        ICMP     Echo (ping) request
+
+Frame 19 (74 bytes on wire, 74 bytes captured)
+Ethernet II, Src: 74:2f:68:d2:09:7f (74:2f:68:d2:09:7f), Dst: 84:c9:b2:87:6a:60 (84:c9:b2:87:6a:60)
+Internet Protocol, Src: 192.168.0.95 (192.168.0.95), Dst: 173.194.47.225 (173.194.47.225)
+Internet Control Message Protocol
+
+No.     Time        Source                Destination           Protocol Info
+     20 8.994635    173.194.47.225        192.168.0.95          ICMP     Echo (ping) reply
+
+Frame 20 (74 bytes on wire, 74 bytes captured)
+Ethernet II, Src: 84:c9:b2:87:6a:60 (84:c9:b2:87:6a:60), Dst: 74:2f:68:d2:09:7f (74:2f:68:d2:09:7f)
+Internet Protocol, Src: 173.194.47.225 (173.194.47.225), Dst: 192.168.0.95 (192.168.0.95)
+Internet Control Message Protocol
+
+No.     Time        Source                Destination           Protocol Info
+     21 9.983937    192.168.0.95          173.194.47.225        ICMP     Echo (ping) request
+
+Frame 21 (74 bytes on wire, 74 bytes captured)
+Ethernet II, Src: 74:2f:68:d2:09:7f (74:2f:68:d2:09:7f), Dst: 84:c9:b2:87:6a:60 (84:c9:b2:87:6a:60)
+Internet Protocol, Src: 192.168.0.95 (192.168.0.95), Dst: 173.194.47.225 (173.194.47.225)
+Internet Control Message Protocol
+
+No.     Time        Source                Destination           Protocol Info
+     22 9.987493    173.194.47.225        192.168.0.95          ICMP     Echo (ping) reply
+
+Frame 22 (74 bytes on wire, 74 bytes captured)
+Ethernet II, Src: 84:c9:b2:87:6a:60 (84:c9:b2:87:6a:60), Dst: 74:2f:68:d2:09:7f (74:2f:68:d2:09:7f)
+Internet Protocol, Src: 173.194.47.225 (173.194.47.225), Dst: 192.168.0.95 (192.168.0.95)
+Internet Control Message Protocol
+
+No.     Time        Source                Destination           Protocol Info
+     23 10.982398   192.168.0.95          173.194.47.225        ICMP     Echo (ping) request
+
+Frame 23 (74 bytes on wire, 74 bytes captured)
+Ethernet II, Src: 74:2f:68:d2:09:7f (74:2f:68:d2:09:7f), Dst: 84:c9:b2:87:6a:60 (84:c9:b2:87:6a:60)
+Internet Protocol, Src: 192.168.0.95 (192.168.0.95), Dst: 173.194.47.225 (173.194.47.225)
+Internet Control Message Protocol
+
+No.     Time        Source                Destination           Protocol Info
+     24 10.986439   173.194.47.225        192.168.0.95          ICMP     Echo (ping) reply
+
+Frame 24 (74 bytes on wire, 74 bytes captured)
+Ethernet II, Src: 84:c9:b2:87:6a:60 (84:c9:b2:87:6a:60), Dst: 74:2f:68:d2:09:7f (74:2f:68:d2:09:7f)
+Internet Protocol, Src: 173.194.47.225 (173.194.47.225), Dst: 192.168.0.95 (192.168.0.95)
+Internet Control Message Protocol
